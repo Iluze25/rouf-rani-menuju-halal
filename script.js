@@ -5,7 +5,7 @@ document.getElementById("goToAbout").addEventListener("click", function() {
         duration: 500,
         easing: "easeInOutQuad",
         complete: function() {
-            window.location.href = "about.html"; // Pindah halaman
+            window.location.href = "https://www.facebook.com/rouf.abatasa"; // Pindah halaman
         }
     });
 });
