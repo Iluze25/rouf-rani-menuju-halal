@@ -2,7 +2,7 @@ document.getElementById("goToAbout").addEventListener("click", function() {
     anime({
         targets: "h1",
         opacity: [1, 0],
-        duration: 500,
+        duration: 1800,
         easing: "easeInOutQuad",
         complete: function() {
             window.location.href = "https://www.facebook.com/rouf.abatasa"; // Pindah halaman
