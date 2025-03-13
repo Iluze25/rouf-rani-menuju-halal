@@ -1,9 +1,10 @@
-
-		body {
+* {
+	padding: 0;
+	margin: 0;
+}
+		
+body {
 			background-image: url('img.jpg');
-			  background-size: cover;  /* Menyesuaikan dengan layar HP */
-    background-position: center;
+			  background-size: cover;  
     background-repeat: no-repeat;
-    height: 100vh;  /* Pastikan memenuhi tinggi layar */
-    margin: 0;
 		}
