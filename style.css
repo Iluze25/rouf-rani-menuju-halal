@@ -1,19 +1,9 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f4f4f4;
-}
 
-button {
-    font-size: 18px;
-    padding: 10px 20px;
-    border: none;
-    background-color: #3498db;
-    color: white;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-}
-
+		body {
+			background-image: url('img.jpg');
+			  background-size: cover;  /* Menyesuaikan dengan layar HP */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;  /* Pastikan memenuhi tinggi layar */
+    margin: 0;
+		}
